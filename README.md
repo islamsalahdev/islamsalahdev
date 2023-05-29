@@ -1,16 +1,17 @@
-### Hi there 👋
+ <h1 align="center"> Hi there 👋 <h1>
 
-<!--
-**islamsalahdev/islamsalahdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+ <a>Welcome to my page! </a>
+ <a>I'm a fresh BackEnd developer... </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Language
+[![Language](https://skillicons.dev/icons?i=js,typescript,python,php,html,)](https://skillicons.dev)
+
+##  Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,express,nestjs,jest,graphql,react,nextjs)](https://skillicons.dev)
+
+## Skills & Technologies
+[![My Skills](https://skillicons.dev/icons?i=postman,prisma,redis,mongodb,mysql,docker,linux&theme=light)](https://skillicons.dev)
+
