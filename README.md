@@ -3,6 +3,7 @@
 
 <p align="center">
  <a>Welcome to my page! </a>
+ <hr>
  <a>I'm a fresh BackEnd developer... </a>
 </p>
 
